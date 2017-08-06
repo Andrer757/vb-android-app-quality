@@ -49,11 +49,6 @@ your application and install both of them on the same device (free and paid vers
 You can also put specific sources and resources with flavors. As it is in this project, just create
 a directory under the src folder, name it with the name of your flavor, and put inside java codes and resources.
 
-Testing
--------
-Work in progress...
- 
-
 To go further
 -------------
 This project is based on these two other projects, which are awesome. Consider take a look at them :
